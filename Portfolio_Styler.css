@@ -924,4 +924,3 @@ img{max-width:100%;height:auto}
     *,*::before,*::after{transition-duration:.01ms!important;animation-duration:.01ms!important}
 }
 :focus-visible{outline:2px solid currentColor;outline-offset:4px}
-}
